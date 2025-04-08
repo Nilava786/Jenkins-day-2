@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TASK 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
 Objective: Set up a CI/CD pipeline to build and deploy a web app.
@@ -25,3 +26,7 @@ Steps to work for this problem is as :-
 7. Push your code to the main branch of GitHub.
 8. GitHub Actions will trigger the workflow and automatically build, test, and deploy your app to DockerHub.
 # jenkins
+=======
+# Jenkins-day-2
+Day-2 Task Of Elevate Labs Internship
+>>>>>>> b9e5c13201eb91e3e15e3b79dd70ac1e9be71c8b
